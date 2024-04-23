@@ -38,9 +38,3 @@ console.log(capitalizedSentence);
     ]
     const names = data.flatMap(group => group.map(person => person.name));
     console.log(names);
-  ];
-// Map through an array of arrays of objects
-  // Example: Extract names from the data array
-  // Desired outcome: ['John', 'Jane', 'Bob']
-
-  
